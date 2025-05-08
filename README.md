@@ -19,10 +19,6 @@ This is a demo project created for iByte.
     cd demo
     ```
 
-## Usage
-
-- [Provide instructions on how to use the project]
-
 ## Contributing
 
 Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
