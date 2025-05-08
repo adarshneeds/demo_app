@@ -4,9 +4,9 @@ This is a demo project created for iByte.
 
 ## Features
 
-- Demonstrates basic project structure.
-- Serves as a template for future projects.
-
+- Fetches product data from [DummyJSON API](https://dummyjson.com/docs/products#products-limit_skip).
+- Provides search functionality for products.
+- Includes pagination for easy navigation through product listings.
 
 ## Installation
 
