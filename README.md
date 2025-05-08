@@ -1,16 +1,35 @@
-# demo
+# Demo Project for iByte
 
-A new Flutter project.
+This is a demo project created for iByte.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Demonstrates basic project structure.
+- Serves as a template for future projects.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/adarshneeds/demo_app
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd demo
+    ```
+
+## Usage
+
+- [Provide instructions on how to use the project]
+
+## Contributing
+
+Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+*Created for iByte.*
